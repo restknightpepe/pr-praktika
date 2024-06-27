@@ -1,0 +1,11 @@
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\PageMain.baml
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\MainWindow.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\PageEmployeeUser.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\PageMain.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\PageEmployee.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\Registration.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\App.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\WpfApplProject_Content.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\WpfApplProject_MarkupCompile.cache
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Release\WpfApplProject_MarkupCompile.lref

@@ -1,0 +1,338 @@
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csprojAssemblyReference.cache
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+E:\Users\meshkovdd\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CopyComplete
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CopyComplete
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CopyComplete
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+C:\Users\mesch\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mesch\Desktop\WpfApplProject\WpfApplProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CopyComplete
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\Registration.g.cs
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.g.cs
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\Registration.baml
+C:\Users\mesch\Desktop\Кононыхина\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.baml
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.g.cs
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\Registration.g.cs
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.baml
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\Registration.baml
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Desktop\Курсач\WpfApplProject\WpfApplProject\obj\Debug\WpfApplP.9B3366C8.Up2Date
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.g.cs
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\Registration.g.cs
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.baml
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\Registration.baml
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Desktop\Леха\WpfApplProject\WpfApplProject\obj\Debug\WpfApplP.9B3366C8.Up2Date
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.g.cs
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\Registration.g.cs
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.baml
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\Registration.baml
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CopyComplete
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+C:\Users\qeaz\Desktop\Новая папка\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\Registration.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.baml
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\Registration.baml
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CopyComplete
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+C:\Users\qeaz\Desktop\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\Registration.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\Registration.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\kursa4_прога\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CopyComplete
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\Registration.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\Registration.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CopyComplete
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+C:\Users\ilyab\OneDrive\Рабочий стол\курсач\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.AssemblyReference.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\PageMain.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\PageMain.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\App.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_Content.g.cs
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject_MarkupCompile.lref
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.exe
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.pdb
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe.config
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.exe
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\bin\Debug\WpfApplProject.pdb
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.dll
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.xml
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\App.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\MainWindow.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\PageEmployeeUser.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\PageEmployee.baml
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.g.resources
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.Properties.Resources.resources
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.GenerateResource.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplProject.csproj.CoreCompileInputs.cache
+C:\Users\ilyab\OneDrive\Рабочий стол\прог\WpfApplProject\WpfApplProject\obj\Debug\WpfApplP.9B3366C8.Up2Date

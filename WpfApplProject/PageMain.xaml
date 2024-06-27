@@ -1,0 +1,47 @@
+﻿<Page x:Name="PageMain1" x:Class="WpfApplProject.PageMain"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Авторизация">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/14579711_5488082.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="23*"/>
+            <RowDefinition Height="22*"/>
+            <RowDefinition Height="22*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="157*"/>
+            <ColumnDefinition Width="200*"/>
+        </Grid.ColumnDefinitions>
+        <Menu Margin="145,100,0,45" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" Background="#FF394554" HorizontalAlignment="Left" Width="328"/>
+        <Label Content="Авторизация" FontSize="16" Grid.Column="1" FontFamily="Arial Black" Margin="249,100,0,47" Grid.ColumnSpan="2" Foreground="White" HorizontalAlignment="Left" Width="128"/>
+
+        <!--подпись input`ов-->
+        <!--input`ы-->
+        <TextBox x:Name="inputName" Grid.Column="1" BorderBrush="Gray" FontSize="16" VerticalAlignment="Bottom" Height="25" Margin="227,0,0,87" VerticalContentAlignment="Center" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="172" Grid.RowSpan="2"/>
+        <PasswordBox x:Name="inputPass1" Grid.Row="1" Grid.Column="1" BorderBrush="Gray" FontSize="16" VerticalAlignment="Top" Height="25" Margin="227,27,0,0" VerticalContentAlignment="Center" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="172"/>
+        <!--ошибки input`ов-->
+
+        <Label x:Name="labelName" Grid.Column="2" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FFFF4545" FontSize="10"  Height="24" Width="160" Margin="90,162,0,0" Grid.RowSpan="2"/>
+        <Label x:Name="labelPass1" Grid.Row="1" Grid.Column="2" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FFFF4545" FontSize="10"  Height="25" Width="160" Margin="90,27,0,0"/>
+
+
+
+        <Button Content="Войти " FontSize="15" Foreground="Black" Background="#FFA097FF" FontFamily="Arial"
+                Click="BtEntry" Grid.Row="2" Grid.Column="1" Height="25" VerticalAlignment="Bottom" Margin="277,0,0,62" Grid.ColumnSpan="2" FontWeight="Bold" BorderBrush="#FF8E7EFF" HorizontalAlignment="Left" Width="72"/>
+
+        <Button Content="выход" Height="26" Width="76" FontSize="15" Background="#FF9B1212" FontFamily="Arial"
+                Foreground="Black" Click="BtExit" Grid.Row="3" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,52,0,0" FontWeight="Bold" />
+        <Label Grid.Row="1" Width="70" HorizontalAlignment="Left" FontSize="16" Content="Пароль" FontFamily="Arial" Margin="157,24,0,0" Grid.Column="1" Height="30" VerticalAlignment="Top" RenderTransformOrigin="0.75,0.518" Foreground="White" FontWeight="Bold"/>
+        <Label Width="56" Height="25" HorizontalAlignment="Left" VerticalAlignment="Bottom" FontFamily="Arial"  FontSize="16" Content="Логин" Margin="157,0,0,87" Grid.Column="1" Foreground="White" FontWeight="Bold" Grid.RowSpan="2" />
+    </Grid>
+</Page>
